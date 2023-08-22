@@ -1,6 +1,6 @@
-### 👋 Hola, soy Muri! 
+  # 👋 Hola, soy Muri! 
 
-✨ **Acerca de mí**:
+## ✨ **Acerca de mí**:
 - 🤖 Desarrollador especializado en **Inteligencia Artificial**.
 - 👨‍🏫 Docente apasionado por enseñar y compartir conocimientos en IA y robotica.
 - 🚀 Actualmente trabajando en desarrollo de modelos de IA y como docente en la VIU.
@@ -10,13 +10,13 @@
 - 🗣 Pregúntame sobre IA, Machine Learning, o cualquier tema académico relacionado.
 - 📩 Cómo contactarme: Mira los enlaces sociales abajo.
 
-🌍 **Redes sociales**:
+## 🌍 **Redes sociales**:
 
-🛠 **Tecnologías y herramientas**:
+## 🛠 **Tecnologías y herramientas**:
 
-👨🏻‍💻  **Equipo y terminal favorito**:
+## 👨🏻‍💻  **Equipo y terminal favorito**:
 
-📚 **Cursos o materiales educativos**:
+## 📚 **Cursos o materiales educativos**:
 
-📊 **Gráfico de actividad**:
+## 📊 **Gráfico de actividad**:
 
