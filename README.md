@@ -48,13 +48,10 @@
 ¡Esperamos que este perfil capture tu espíritu como un Stormtrooper en el mundo de la robótica e IA! ¡Que la fuerza te acompañe en tu misión!
 
 ##🔗  🌍Conéctate conmigo:
-- [Youtube](https://www.youtube.com/[tu_perfil])
-- [Twitter](https://twitter.com/[tu_perfil])
-- [Instagram](https://Instagram.com/[tu_perfil])
 
-[![Youtube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/[[tu_perfil](https://www.youtube.com/@EruditosTECH/featured)])
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/[[tu_perfil](https://twitter.com/EruditosTech)])
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/[[[[tu_perfil](https://www.instagram.com/eruditostech/)]()]()])
+[![Youtube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/(https://www.youtube.com/@EruditosTECH/featured)])
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/[(https://twitter.com/EruditosTech)])
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/[(https://www.instagram.com/eruditostech/)])
 
 
 ## ✨ May the Force be with You ✨
