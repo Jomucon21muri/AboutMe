@@ -5,24 +5,45 @@
 **Nivel de Experiencia:** Soldado de Primera Clase 🪖
 **Áreas de Especialización:** Robótica 🤖, Inteligencia Artificial 🧠
 
-### Características y Habilidades en Desarrollo:
+### Características en desarrollo:
 - 🚀 **Disciplina Imperial:**
     - Entrenado en los más avanzados protocolos y tecnologías, siempre listo para emprender misiones en el campo de la robótica y la IA 🕵️‍♂️
-
 - 👨‍💻 **Formación Continua:**
     - En constante aprendizaje a través de diversos recursos como cursos especializados, seminarios y talleres para estar a la vanguardia de la tecnología 📚
-
 - 🌌 **Innovación Estratégica:**
     - Activo en el desarrollo y prueba de nuevos conceptos a través de proyectos prácticos y experimentaciones a pequeña y gran escala 🔧
-
 - 🛠 **Experto en Herramientas y Tecnologías:**
     - Desarrollando habilidades en lenguajes de programación populares y plataformas de vanguardia como ROS, TensorFlow, etc. 💻
-
 - 📚 **Red de Aliados:**
     - Expandiendo una red de contactos en la galaxia tecnológica, participando en eventos y comunidades relacionadas con la robótica y la IA 🌐
-
 - 📊 **Análisis y Estrategia:**
     - Fortaleciendo habilidades para analizar situaciones complejas y diseñar soluciones innovadoras con precisión imperial 🧠
+
+<details>
+<summary>🛠️ Más habilidades y niveles de Experiencia</summary>
+
+#### Nivel Experto 🚀
+- Programación en Python y C++
+- Análisis de Datos y Procesamiento
+- Comunicación Efectiva y Presentaciones Técnicas
+
+#### Nivel Avanzado 🧠
+- Desarrollo de Algoritmos de IA
+- Integración de Sistemas Robóticos
+- Manejo de Herramientas de Aprendizaje Automático (como TensorFlow)
+- Desarrollo de Soluciones de Visión por Computadora
+- Capacitación y Consultoría en IA y Robótica
+- Diseño e Implementación de Redes Neuronales
+- Desarrollo de Soluciones de Automatización
+
+#### Nivel Intermedio 🌟
+- Gestión y Liderazgo de Proyectos de IA
+- Investigación y Desarrollo en Tecnologías Emergentes
+- Trabajo Colaborativo y Coordinación de Equipos Multidisciplinarios
+
+</details>
+
+
 
 ### Misión:
 🌟 Como un Stormtrooper en la Robótica e IA, tu misión es avanzar en la frontera de la tecnología, destacando por tu disciplina, innovación y excelencia en el campo.
