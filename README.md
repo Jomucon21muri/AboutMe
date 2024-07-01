@@ -1,9 +1,9 @@
- # 👋 Hola, soy Muri, Stormtrooper de la Robótica e IA!
+ # 👋 Hola, soy Muri apasionado de los Stormtrooper, investigador en robótica e IA!
 
 ### ✨ Acerca de mí:
 
 **Nivel de Experiencia:** Soldado de Primera Clase 🪖
-**Áreas de Especialización:** Robótica 🤖, Inteligencia Artificial 🧠
+**Áreas de Especialización:** Elctronica, robótica 🤖, Inteligencia Artificial 🧠
 
 ### Características en desarrollo:
 - 🚀 **Disciplina Imperial:**
@@ -25,21 +25,19 @@
 #### Nivel Experto 🚀
 - Programación en Python y C++
 - Análisis de Datos y Procesamiento
-- Comunicación Efectiva y Presentaciones Técnicas
+- Comunicación efectiva y presentaciones técnicas
 
 #### Nivel Avanzado 🧠
-- Desarrollo de Algoritmos de IA
-- Integración de Sistemas Robóticos
-- Manejo de Herramientas de Aprendizaje Automático (como TensorFlow)
-- Desarrollo de Soluciones de Visión por Computadora
-- Capacitación y Consultoría en IA y Robótica
-- Diseño e Implementación de Redes Neuronales
-- Desarrollo de Soluciones de Automatización
+- Desarrollo de algoritmos de IA
+- Integración de sistemas robóticos
+- Manejo de herramientas de aprendizaje automático (como TensorFlow)
+- Diseño e implementación  y consultoría en IA y Robótica
+- Desarrollo de soluciones de automatización
 
 #### Nivel Intermedio 🌟
-- Gestión y Liderazgo de Proyectos de IA
-- Investigación y Desarrollo en Tecnologías Emergentes
-- Trabajo Colaborativo y Coordinación de Equipos Multidisciplinarios
+- Gestión y liderazgo de proyectos de IA
+- Investigación y desarrollo en tecnologías emergentes
+- Trabajo colaborativo y coordinación de equipos multidisciplinarios
 
 </details>
 
@@ -51,7 +49,7 @@
 ### Desarrollo Profesional:
 - 🤖 Especialista en Inteligencia Artificial.
 - 👨‍🏫 Docente dedicado a compartir conocimientos en IA y robótica con la próxima generación de líderes imperiales.
-- 🚀 Participando activamente en el desarrollo de modelos avanzados de IA y como instructor en la VIU.
+- 🚀 Participando activamente en el desarrollo de modelos avanzados de IA y como profesor en la VIU.
 - 📘 Siempre al tanto de las últimas tendencias en IA y robótica.
 - 📺 Dispuesto a colaborar en conferencias, webinars o charlas educativas.
 - 🤝 Buscando colaborar para mejorar la capacidad de reacción de los robots humanoides.
