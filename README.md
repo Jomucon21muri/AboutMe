@@ -1,23 +1,16 @@
- # 👋 Hola, soy Muri apasionado de los Stormtrooper, investigador en robótica e IA!
+ # 👋 Hola, soy Muri investigador en robótica e IA!
 
 ### ✨ Acerca de mí:
-
-**Nivel de Experiencia:** Soldado de Primera Clase 🪖
 **Áreas de Especialización:** Elctronica, robótica 🤖, Inteligencia Artificial 🧠
 
 ### Características en desarrollo:
-- 🚀 **Disciplina Imperial:**
-    - Entrenado en los más avanzados protocolos y tecnologías, siempre listo para emprender misiones en el campo de la robótica y la IA 🕵️‍♂️
-- 👨‍💻 **Formación Continua:**
-    - En constante aprendizaje a través de diversos recursos como cursos especializados, seminarios y talleres para estar a la vanguardia de la tecnología 📚
-- 🌌 **Innovación Estratégica:**
-    - Activo en el desarrollo y prueba de nuevos conceptos a través de proyectos prácticos y experimentaciones a pequeña y gran escala 🔧
-- 🛠 **Experto en Herramientas y Tecnologías:**
+- 👨‍💻 **Formación continua en innovación:**
+    - En constante aprendizaje a través de cursos especializados, seminarios y talleres para estar al día de las tecnología emergentes 📚
+    - Activo en el desarrollo y prueba de proyectos prácticos y experimentaciones a pequeña y gran escala 🔧
     - Desarrollando habilidades en lenguajes de programación populares y plataformas de vanguardia como ROS, TensorFlow, etc. 💻
-- 📚 **Red de Aliados:**
+- 📚 **Red:**
     - Expandiendo una red de contactos en la galaxia tecnológica, participando en eventos y comunidades relacionadas con la robótica y la IA 🌐
-- 📊 **Análisis y Estrategia:**
-    - Fortaleciendo habilidades para analizar situaciones complejas y diseñar soluciones innovadoras con precisión imperial 🧠
+    - Fortaleciendo habilidades para analizar situaciones complejas y diseñar soluciones innovadoras con precisión 🧠
 
 <details>
 <summary>🛠️ Más habilidades y niveles de Experiencia</summary>
@@ -41,14 +34,12 @@
 
 </details>
 
-
-
 ### Misión:
-🌟 Como un Stormtrooper en la Robótica e IA, tu misión es avanzar en la frontera de la tecnología, destacando por tu disciplina, innovación y excelencia en el campo.
+🌟 La Robótica e IA, avanza en la tecnología, destacando por disciplina, innovación y excelencia en el campo.
 
 ### Desarrollo Profesional:
 - 🤖 Especialista en Inteligencia Artificial.
-- 👨‍🏫 Docente dedicado a compartir conocimientos en IA y robótica con la próxima generación de líderes imperiales.
+- 👨‍🏫 Docente dedicado a compartir conocimientos en IA y robótica con la próxima generación.
 - 🚀 Participando activamente en el desarrollo de modelos avanzados de IA y como profesor en la VIU.
 - 📘 Siempre al tanto de las últimas tendencias en IA y robótica.
 - 📺 Dispuesto a colaborar en conferencias, webinars o charlas educativas.
@@ -58,13 +49,11 @@
 
 ### Viaje:
 🛤 En este viaje, te espera un camino de aprendizaje continuo, colaboración con otros especialistas y contribuciones significativas al crecimiento y desarrollo de la robótica y la IA.
-
-"Soldado, en tu misión de expandir el imperio de la tecnología, este es tu camino verdadero. Que la fuerza de la disciplina y la innovación siempre estén contigo. ¡Adelante, hacia la supremacía en la robótica y la IA!"
+"Tu misión de expandir el imperio de la tecnología, este es tu camino verdadero. Que la fuerza de la disciplina y la innovación siempre estén contigo. ¡Adelante, hacia la robótica y la IA!"
 
 ### Objetivos Futuros:
 🚀 Tu visión es convertirte en un líder destacado en tu campo, aportando desarrollos e investigaciones que marquen una diferencia significativa en la sociedad y la industria.
-
-¡Esperamos que este perfil capture tu espíritu como un Stormtrooper en el mundo de la robótica e IA! ¡Que la fuerza te acompañe en tu misión!
+¡Esperamos que este perfil capture tu espíritu en el mundo de la robótica e IA!
 
 ## 🌍 Conéctate conmigo:
 
@@ -73,5 +62,3 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/eruditostech/)
 
 ## ✨ May the Force be with You ✨
-
-
