@@ -35,7 +35,7 @@
 </details>
 
 ### Misión:
-🌟 La Robótica e IA, avanza en la tecnología, destacando por disciplina, innovación y excelencia en el campo.
+🌟 Fomentar y fromar en el uso de la robótica e IA.
 
 ### Desarrollo Profesional:
 - 👨‍🏫 Docente dedicado a compartir conocimientos en IA y robótica con la próxima generación.
