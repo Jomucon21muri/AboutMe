@@ -7,9 +7,9 @@
 - 👨‍💻 **Formación continua en innovación:**
     - En constante aprendizaje a través de cursos especializados, seminarios y talleres para estar al día de las tecnología emergentes 📚
     - Activo en el desarrollo y prueba de proyectos prácticos y experimentaciones a pequeña y gran escala 🔧
-    - Desarrollando habilidades en lenguajes de programación populares y plataformas de vanguardia como ROS, TensorFlow, etc. 💻
+    - Desarrollando habilidades en lenguajes de programación populares y plataformas. 💻
 - 📚 **Red:**
-    - Expandiendo una red de contactos en la galaxia tecnológica, participando en eventos y comunidades relacionadas con la robótica y la IA 🌐
+    - Expandiendo una red de contactos en la tecnológica, participando en eventos y comunidades relacionadas con la robótica y la IA 🌐
     - Fortaleciendo habilidades para analizar situaciones complejas y diseñar soluciones innovadoras con precisión 🧠
 
 <details>
@@ -38,7 +38,6 @@
 🌟 La Robótica e IA, avanza en la tecnología, destacando por disciplina, innovación y excelencia en el campo.
 
 ### Desarrollo Profesional:
-- 🤖 Especialista en Inteligencia Artificial.
 - 👨‍🏫 Docente dedicado a compartir conocimientos en IA y robótica con la próxima generación.
 - 🚀 Participando activamente en el desarrollo de modelos avanzados de IA y como profesor en la VIU.
 - 📘 Siempre al tanto de las últimas tendencias en IA y robótica.
@@ -49,7 +48,7 @@
 
 ### Viaje:
 🛤 En este viaje, te espera un camino de aprendizaje continuo, colaboración con otros especialistas y contribuciones significativas al crecimiento y desarrollo de la robótica y la IA.
-"Tu misión de expandir el imperio de la tecnología, este es tu camino verdadero. Que la fuerza de la disciplina y la innovación siempre estén contigo. ¡Adelante, hacia la robótica y la IA!"
+"Tu misión de expandir la tecnología, este es tu camino verdadero. Que la fuerza de la disciplina y la innovación siempre estén contigo. ¡Adelante, hacia la robótica y la IA!"
 
 ### Objetivos Futuros:
 🚀 Tu visión es convertirte en un líder destacado en tu campo, aportando desarrollos e investigaciones que marquen una diferencia significativa en la sociedad y la industria.
@@ -59,6 +58,6 @@
 
 [![Youtube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@EruditosTECH/featured)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/EruditosTech)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/eruditostech/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)]([https://www.instagram.com/eruditostech/](https://www.instagram.com/3duca_tech/tagged/))
 
 ## ✨ May the Force be with You ✨
